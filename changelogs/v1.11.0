@@ -1,0 +1,34 @@
+```diff
++ Added configurable ESP colors across all games
+* Fixed issue with autoload configs loading some features 'out of order'
+* Made Aimlock modular
+* A ton of under-the-hood changes
+
+\\ [UNIVERSAL] //
++ Added Aimlock
+
+\\ [DOORS] //
++ Added Rush Mode floor compatibility
++ Added new Walkspeed Bypass method
++ Added Bruteforce Library Padlock Code
++ Added Use Items Anywhere
++ Added Show Eyestalk Path
+* Added keybind to No Collision (default: B)
+* Fixed Item Aura not picking up stackable items
+* Reworked Auto Parse Library Code
+* Fixed issue with queue_on_teleport initialization
+
+\\ [DOORS HOTELMINUS] //
++ Added Bruteforce Library Code
+* Fixed issue with queue_on_teleport initialization
+* Reworked Auto Parse Library Code
+* Fixed Library Book Aura
+
+\\ [FORSAKEN] //
++ Added Aimlock
++ Added Auto Punch (Guest)
+
+\\ [MM2] //
++ Added Silent Aim Offset
+* Teleportation buttons now require double click
+```
